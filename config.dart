@@ -1,0 +1,16 @@
+const webUrl = "https://mydoctorjo.com";
+const apiUrl = "https://mydoctorjo.com/php/api";
+const apiUrlLaravel = "https://mydoctorjo.com/api";
+const postlab = "https://mydoctorjo.com/public/api/patient/labtestattachment/store";
+const fileUrl = "https://mydoctorjo.com/php/files";
+const firebaseServerKey="AAAAtV19VZU:APA91bGOEsQVRFMIF-isU9MW_igDI5ZABwd499wuvaLPIPqTM8MBqUSfOSJas3QeW-KtAPAyzfX3gLihmmHVBdGwgoDOFh2OtBeo9PlEouktitD21VTajHX2gFOfKxp4CPvZZkx-DNj9";
+// const razorpayKeyId= "rzp_test_VMh7RmnOH2pE48"; //razorpay key id
+// const razorpayKeySecret="v4M910rT9qDFuaFCMYtgOyy6";//razorpay secret key
+const razorpayKeyId= "rzp_test_pnwPkVJVjfwvT4"; //razorpay key id
+const razorpayKeySecret="6ImS8tqCOrzFzfI7OSBRUoGb";//razorpay secret key
+const paypalClientId = 'AQQXDpFHWA3dsoRwEXfsO8CQjZG1xWvfeBzNOw29oYP5-usbfBYRUaGed6IK-bDFhBCiMFoXSv48iqCy';//paypal client id
+const paypalSecret = 'EOLAhvZYbncofB_pzkM5MpIWUQ3A5hsiD2OVjyVfXV_ZUUiMOYW7W8BPf3tT9uWst96WyU3UwiWWB9GT'; //paypal secret keyVjyVfXV_ZUUiMOYW7W8BPf3tT9uWst96WyU3UwiWWB9GT'; //paypal secret key
+const payStackPublickKey="pk_test_e3227f7c97a8705aa526ab1e8abd6fd52d7f61e2";
+const payStackSecretKey="sk_test_a3202536b7d4a2814f91232924f6ecda2c88adf5";
+const senderColor = 0xFFDCF8C6;
+const receiverColor = 0xFFF6F6F6;
